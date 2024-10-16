@@ -1,7 +1,3 @@
-Here's a simple and structured README file for your GitHub project:
-
----
-
 # 9M2PJU Powershell Speedtest v1.0
 
 A PowerShell script that automatically downloads the Speedtest CLI, accepts the license, runs a speedtest, and displays the results in a detailed, step-by-step manner.
