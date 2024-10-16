@@ -1,6 +1,7 @@
 # 9M2PJU Powershell Speedtest v1.0
-# This script downloads Speedtest CLI, accepts the license, runs a speedtest, and displays detailed output.
+# This script downloads Speedtest CLI, accepts the license, runs a speedtest, and displays detailed step-by-step output.
 
+# Custom ASCII Art for 9M2PJU
 $asciiArt = @"
  ## ##   ##   ##  ## ##    ### ##      ####  ##  ###  
  #   ##   ## ##   ##  ##    ##  ##      ##   ##   ##  
@@ -80,3 +81,6 @@ Write-Host "Test Timestamp: " $speedtestData.timestamp
 # Step 8: End of script
 Write-Host ""
 Write-Host "Speedtest complete."
+
+# Prevent the script from closing immediately
+Read-Host "Press Enter to close"
