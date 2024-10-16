@@ -69,11 +69,5 @@ Test Timestamp: 2024-10-17T14:35:22Z
 Speedtest complete.
 ```
 
-## License
 
-This project is licensed under the MIT License.
-
----
-
-This README should provide a comprehensive overview of how to use your script, along with an example of its output.
 
