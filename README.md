@@ -20,7 +20,7 @@ A PowerShell script that automatically downloads the Speedtest CLI, accepts the 
    Clone the repository or download the `.ps1` script directly.
 
    ```bash
-   git clone https://github.com/yourusername/9M2PJU_Powershell_Speedtest.git
+   git clone https://github.com/9M2PJU/9M2PJU_Powershell_Speedtest.git
    ```
 
 2. **Run the script**:  
